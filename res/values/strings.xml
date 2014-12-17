@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Wake_Up</string>
+    <string name="login">login</string>
+    <string name="user">Username</string>
+    <string name="pass">Password</string>
+    <string name="butt_2">Set Date</string>
+    <string name="save">save</string>
+    <string name="set_date">Set your date</string>
+    <string name="set_time">Set your time</string>
+    <string name="call_me">call me</string>
+    <string name="wake_up">Wake person</string>
+    <string name="mobile">Phone number</string>
+
+</resources>
